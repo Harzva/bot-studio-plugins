@@ -1,0 +1,97 @@
+{
+  "schema": "bot-studio.optional-assets/1",
+  "repository": "Harzva/bot-studio-plugins",
+  "tag": "bot-studio-plugins-20261120.1",
+  "assets": [
+    {
+      "id": "doudizhu",
+      "kind": "game-preview",
+      "version": "0.1.1",
+      "name": "doudizhu-0.1.1.tgz",
+      "bytes": 240336,
+      "sha256": "dd9da9f1da25c95a4366d6267e5c10d267f6759efe62ae53b5980bdaedf6a837",
+      "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.1/doudizhu-0.1.1.tgz"
+    },
+    {
+      "id": "mahjong",
+      "kind": "game-preview",
+      "version": "0.1.1",
+      "name": "mahjong-0.1.1.tgz",
+      "bytes": 67526,
+      "sha256": "cbe447eabf7a951c3daa39434fd2ddc3dc92dad8c11a6681f24208078fc7e83b",
+      "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.1/mahjong-0.1.1.tgz"
+    },
+    {
+      "id": "sealed-bid",
+      "kind": "game-preview",
+      "version": "0.1.1",
+      "name": "sealed-bid-0.1.1.tgz",
+      "bytes": 21525,
+      "sha256": "19a9a4bb5a678049ce6e9d570987c1b923e19c1fda7df9b34b4c070d2b4b5a46",
+      "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.1/sealed-bid-0.1.1.tgz"
+    },
+    {
+      "id": "caravan",
+      "kind": "game-preview",
+      "version": "0.1.1",
+      "name": "caravan-0.1.1.tgz",
+      "bytes": 24735,
+      "sha256": "44bf84f3f5561539f5967ae95402a2ab0a75d74b01144b7cf3da05de94e69469",
+      "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.1/caravan-0.1.1.tgz"
+    },
+    {
+      "id": "lantern-watch",
+      "kind": "game-preview",
+      "version": "0.1.1",
+      "name": "lantern-watch-0.1.1.tgz",
+      "bytes": 20952,
+      "sha256": "5b5c73aa60a95bd79d259319e7ddcfba0dd0469c77b7e6524f98913174994b3f",
+      "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.1/lantern-watch-0.1.1.tgz"
+    },
+    {
+      "id": "rails",
+      "kind": "game-preview",
+      "version": "0.1.1",
+      "name": "rails-0.1.1.tgz",
+      "bytes": 24309,
+      "sha256": "d1fb6d8b8cb584f22b42730fea1fe2f95dd983709ff0a00f15544a7337e196bb",
+      "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.1/rails-0.1.1.tgz"
+    },
+    {
+      "id": "magictower",
+      "kind": "game-preview",
+      "version": "0.1.1",
+      "name": "magictower-0.1.1.tgz",
+      "bytes": 38517,
+      "sha256": "db2e5294ed0dd2f6890a53bcea4db596ad3c274eb2b5fb853c176aeb450a398c",
+      "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.1/magictower-0.1.1.tgz"
+    },
+    {
+      "id": "zuma",
+      "kind": "game-preview",
+      "version": "0.1.1",
+      "name": "zuma-0.1.1.tgz",
+      "bytes": 24627,
+      "sha256": "418c55b9852641c9cd285648b2c991ce9a3e6d185ae03dff0bf51c59d126856a",
+      "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.1/zuma-0.1.1.tgz"
+    },
+    {
+      "id": "clay",
+      "kind": "avatar-material",
+      "version": "1.0.0",
+      "name": "bot-studio-skin-clay-1.0.0.json.gz",
+      "bytes": 679755,
+      "sha256": "8a2ac2e877f04e2f1b4f9491ebb8157df20724bc8844f4a279e022ccce767c6d",
+      "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.1/bot-studio-skin-clay-1.0.0.json.gz"
+    },
+    {
+      "id": "felt",
+      "kind": "avatar-material",
+      "version": "1.0.0",
+      "name": "bot-studio-skin-felt-1.0.0.json.gz",
+      "bytes": 1011210,
+      "sha256": "5057819c7336794f903e71ebed2d0f2fbbf5f449acb3d9aa8d487465cb119118",
+      "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.1/bot-studio-skin-felt-1.0.0.json.gz"
+    }
+  ]
+}
